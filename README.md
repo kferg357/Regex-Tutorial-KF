@@ -326,4 +326,4 @@ alert( "function g()".match(/g\(\)/) ); // "g()"
 
 ## Author
 
-The author of this READme.MD is Kenneth A. Ferguon. I am currently a student at UNC Coding Bootcamp. here is the link to my profile ?????????????
+The author of this READme.MD is Kenneth A. Ferguon. I am currently a student at UNC Coding Bootcamp. here is the link to my profile is https://github.com/kferg357/Regex-Tutorial-KF/edit/master/README.md. My link to my Github gist is https://gist.github.com/kferg357/a91abff2171217ce8683a6fc9e7c8507
